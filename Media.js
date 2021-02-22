@@ -1,0 +1,19 @@
+const iron1 = new Image();
+iron1.src = "src/one.png";
+const iron2 = new Image();
+iron2.src = "src/two.png";
+const iron3 = new Image();
+iron3.src = "src/three.png";
+const iron4 = new Image();
+iron4.src = "src/four.png";
+const iron5 = new Image();
+iron5.src = "src/one-flip.png";
+const iron6 = new Image();
+iron6.src = "src/two-flip.png";
+const iron7 = new Image();
+iron7.src = "src/three-flip.png";
+const iron8 = new Image();
+iron8.src = "src/four-flip.png";
+
+const block = new Image();
+block.src = "src/block.png";
